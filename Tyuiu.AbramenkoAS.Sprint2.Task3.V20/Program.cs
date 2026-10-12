@@ -11,7 +11,7 @@ namespace Tyuiu.AbramenkoAS.Sprint2.Task3.V20
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Вложенные оператолы if-else                                       *");
             Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #20                                                              *");
+            Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнила: Абраменко А. С. | ИБКСб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
